@@ -1,4 +1,4 @@
-# PostgreSQL Table Chronicler
+# PostgreSQL Database Downloader
 
 A lightweight Python utility for creating CSV exports of PostgreSQL database tables. This tool supports both full table exports with timestamps and selective column exports, making it perfect for data archiving, migrations, or backup purposes.
 
@@ -26,8 +26,8 @@ A lightweight Python utility for creating CSV exports of PostgreSQL database tab
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SakibAhmedShuva/PostgreSQL-Table-Chronicler.git
-cd PostgreSQL-Table-Chronicler
+git clone https://github.com/SakibAhmedShuva/PostgreSQL-Database-Downloader.git
+cd PostgreSQL-Database-Downloader
 ```
 
 2. Install required packages:
