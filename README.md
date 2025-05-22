@@ -133,7 +133,8 @@ Sakib Ahmed Shuva - [GitHub Profile](https://github.com/SakibAhmedShuva)
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details (if one is provided in the repository).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 
